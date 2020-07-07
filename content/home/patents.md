@@ -36,7 +36,7 @@ date_format = "Jan 2006"
   certificate_url = ""
   date_start = "2014-12-01"
   date_end = ""
-  description = "本发明是针对里德伯态原子\分子的电子所处能级状态难以检测的问题，提出了一种通过太赫兹波检测气体里德伯态精细谱线的装置，可以检测各种高纯度的气体中电子所处的能级状态。The present invention relates to energy state detection device residing for a kind of electronics, in particular to the device of a kind of meticulous spectrum line of Rydberg state by THz wave detected gas molecule."
+  description = "本发明是针对里德伯态原子的电子所处能级状态难以检测的问题，提出了一种通过太赫兹波检测气体里德伯态精细谱线的装置，可以检测各种高纯度的气体中电子所处的能级状态。The present invention relates to energy state detection device residing for a kind of electronics, in particular to the device of a kind of meticulous spectrum line of Rydberg state by THz wave detected gas molecule."
 
 [[item]]
   organization = "CN104390935A"
