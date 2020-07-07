@@ -21,9 +21,11 @@ organizations:
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- Artificial Intelligence
+- Testing
 - Computational Linguistics
 - Automotive Industry
+- Optical Instruments Industry
+
 
 education:
   courses:
@@ -76,6 +78,4 @@ Looking for a job as a test engineer or sales engineer in the automotive industr
 
 Enhanced knowledge in Matlab/SIMULINK, C/C#, python and some automotive development software such as winIDEA, CANoe, vTESTStudio from previous working experience. Can plan, coordinate, implement system components, control units, cables, ultrasonic simulators, monitors and records for displays. 
 
-Experienced in HIL and MIL testing.Experienced in white box and black box testing. 
-
-Familiar with relevant test software for ECU development and experience in using Jenkins for continuous integration testing.
+Experienced in HIL and MIL testing.Experienced in white box and black box testing. Familiar with relevant test software for ECU development and experience in using Jenkins for continuous integration testing.
