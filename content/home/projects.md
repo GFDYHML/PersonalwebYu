@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 50  # Order that this section will appear.
 
-title = "Accomplish&shy;ments"
+title = "Projects"
 subtitle = ""
 
 # Date format
@@ -20,7 +20,7 @@ date_format = "Jan 2006"
 
 [[item]]
   organization = "Robert Bosch GmbH"
-  organization_url = ""
+  organization_url = "https://www.bosch.de/unser-unternehmen/bosch-in-deutschland/leonberg/"
   title = "Continuous testing method in Automotive Software Development"
   url = ""
   certificate_url = ""
@@ -30,7 +30,7 @@ date_format = "Jan 2006"
 
 [[item]]
   organization = "Hochschule Coburg"
-  organization_url = ""
+  organization_url = "https://www.hs-coburg.de/"
   title = "3D reconstruction techniques"
   url = ""
   certificate_url = ""
@@ -40,9 +40,9 @@ date_format = "Jan 2006"
   
 [[item]]
   organization = "University of Shanghai for Science and Technology"
-  organization_url = ""
+  organization_url = "http://en.usst.edu.cn/"
   title = "Device for synchronously detecting the micro structure of the light spot and the sample surface"
-  url = ""
+  url = "https://patents.google.com/patent/CN103257141A/ru"
   certificate_url = ""
   date_start = "2013-10-01"
   date_end = "2015-10-21"
