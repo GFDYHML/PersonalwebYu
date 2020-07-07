@@ -20,7 +20,7 @@
 
 [[main]]
   name = "Patents"
-  url = "#posts"
+  url = "#patents"
   weight = 40
 
 [[main]]
