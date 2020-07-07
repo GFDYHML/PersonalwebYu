@@ -17,7 +17,7 @@ subtitle = ""
 [[feature]]
   icon = "jenkins"
   icon_pack = "fab"
-  name = "Jenkins"
+  name = "Continuous Integration"
   description = "80%"
   
 [[feature]]
