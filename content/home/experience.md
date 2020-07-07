@@ -27,11 +27,11 @@ date_format = "Jan 2006"
   description = """
   Responsibilities include:
   
-  * Participate in the construction of the testing laboratory. 
+  * Participated in the optical test and environmental test of vehicle headlights.
   * A lighting system based on Siemens PLC was built.
   * Responsible for the procurement of office supplies and laboratory supplies.
-  * Designed the laboratory drainage pipe. 
-  * Participated in the optical test and environmental test of vehicle headlights.
+  * Designed the laboratory drainage pipeline. 
+  * Participated in the construction of the testing laboratory. 
   * Standard: GB4599 GB5920 GB4660
   """
 
@@ -45,9 +45,10 @@ date_format = "Jan 2006"
   description = """
   Responsibilities include:
   
-  * Implemented a continuous test method by configuring the Jenkins project which allowed Integration test can be launch remotely and periodicity via Jenkins. 
-  * Wrote batch files and C# scripts to implement an automatic flash function in winIDEA and automatic test in CANoe.
-  * Responsible for the unit test by using TPT to test if the Simulink model is designed correctly according to requirements.
+  * Agile development and scrum. 
+  * Configuration of continuous integration testing method based on Jenkins and test bench.
+  * Test cases' modification and test environment configuration.
+  * Traceability: 10+ internal wiki pages about test methods and test work flow chart.
   * Standard: ISO26262
   """
 
@@ -62,6 +63,7 @@ date_format = "Jan 2006"
   Responsibilities include:
   
   * Responsible for optical testing.
+  * Issue test report based on test results.
   * Instrumentation: Integrating sphere,	Distributed photometer,	Lithography and etc.
   * Standard：ISO62471 EN60598
   """
