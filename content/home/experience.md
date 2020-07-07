@@ -32,13 +32,14 @@ date_format = "Jan 2006"
   * Responsible for the procurement of office supplies and laboratory supplies.
   * Designed the laboratory drainage pipe. 
   * Participated in the optical test and environmental test of vehicle headlights.
+  * Standard: GB4599 GB5920 GB4660
   """
 
 [[experience]]
   title = "Engineering Intern"
   company = "Robert Bosch GmbH"
   company_url = ""
-  location = "Leonberg"
+  location = "Leonberg,DE"
   date_start = "2018-03-01"
   date_end = "2019-02-28"
   description = """
@@ -47,6 +48,22 @@ date_format = "Jan 2006"
   * Implemented a continuous test method by configuring the Jenkins project which allowed Integration test can be launch remotely and periodicity via Jenkins. 
   * Wrote batch files and C# scripts to implement an automatic flash function in winIDEA and automatic test in CANoe.
   * Responsible for the unit test by using TPT to test if the Simulink model is designed correctly according to requirements.
+  * Standard: ISO26262
+  """
+
+[[experience]]
+  title = "Quality Assurance Test Engineer"
+  company = "DEKRA Testing and Certification GmbH"
+  company_url = ""
+  location = "Shanghai"
+  date_start = "2016-07-01"
+  date_end = "2017-06-01"
+  description = """
+  Responsibilities include:
+  
+  * Responsible for optical testing.
+  * Instrumentation: Integrating sphere,	Distributed photometer,	Lithography and etc.
+  * Standard：ISO62471 EN60598
   """
 
 
