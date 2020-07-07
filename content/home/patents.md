@@ -19,43 +19,33 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
-  organization = "Robert Bosch GmbH"
-  organization_url = ""
-  title = "Continuous testing method in Automotive Software Development"
+  organization = "CN103972780A"
+  organization_url = "https://patents.google.com/patent/CN103972780A/zh?oq=CN103972780A"
+  title = "一种通过可调光阑快速找到激光脉冲时域重合位置的方法"
   url = ""
   certificate_url = ""
-  date_start = "2018-09-01"
-  date_end = "2019-02-01"
-  description = "Implemented a continuous test method by configuring the Jenkins project. Integration test can be launch remotely and periodicity via Jenkins. Using several batch files and C# scripts to implement automatic flash in winIDEA and automatic test in CANoe. Test results can be obtained via email with test reports attached. "
-
-[[item]]
-  organization = "Hochschule Coburg"
-  organization_url = ""
-  title = "3D reconstruction techniques"
-  url = ""
-  certificate_url = ""
-  date_start = "2017-10-01"
-  date_end = "2018-02-01"
-  description = "Build a platform to compare several 3D reconstruction methods: structured-Light projection, shape-from-Silhouette, multiview-stereo and laser-line scanning."
+  date_start = "2014-05-01"
+  date_end = ""
+  description = " 本发明涉及一种脉冲激光领域，特别涉及一种通过可调光阑快速找到激光脉冲时域重合位置的方法。The invention relates to a method for fast finding a laser pulse time domain coinciding position through an adjustable diaphragm. "
   
 [[item]]
-  organization = "University of Shanghai for Science and Technology"
-  organization_url = ""
-  title = "Device for synchronously detecting the micro structure of the light spot and the sample surface"
-  url = ""
-  certificate_url = ""
-  date_start = "2013-10-01"
-  date_end = "2015-10-21"
-  description = "This system can monitoring pump beam and the sample surface micro structure function at the same time by using a simple structure which is easily adjusted."
-
-[[item]]
-  organization = "CN104390935A"
-  organization_url = "https://patents.google.com/patent/CN104390935A/zh?oq=CN104390935A"
-  title = "Device and method for testing nonlinear polarization coefficient and absorption coefficient at terahertz band"
+  organization = "CN104457991B"
+  organization_url = "https://patents.google.com/patent/CN104457991B/zh?oq=CN104457991B"
+  title = "通过太赫兹波检测气体里德伯态精细谱线的装置"
   url = ""
   certificate_url = ""
   date_start = "2014-12-01"
   date_end = ""
-  description = "The invention relates to a device and a method for testing a nonlinear polarization coefficient and an absorption coefficient at a terahertz band. "
+  description = "本发明是针对里德伯态原子\分子的电子所处能级状态难以检测的问题，提出了一种通过太赫兹波检测气体里德伯态精细谱线的装置，可以检测各种高纯度的气体中电子所处的能级状态。The present invention relates to energy state detection device residing for a kind of electronics, in particular to the device of a kind of meticulous spectrum line of Rydberg state by THz wave detected gas molecule."
+
+[[item]]
+  organization = "CN104390935A"
+  organization_url = "https://patents.google.com/patent/CN104390935A/zh?oq=CN104390935A"
+  title = "太赫兹波段测试非线性极化系数和吸收系数的装置及方法"
+  url = ""
+  certificate_url = ""
+  date_start = "2014-12-01"
+  date_end = ""
+  description = "本发明涉及一种非线性晶体特性测试技术，特别涉及一种非线性晶体在太赫兹波 段测试其非线性极化系数和吸收系数的装置及方法。The invention relates to a device and a method for testing a nonlinear polarization coefficient and an absorption coefficient at a terahertz band. "
   
 +++
