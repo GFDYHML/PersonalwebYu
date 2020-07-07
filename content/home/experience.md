@@ -24,7 +24,6 @@ date_format = "Jan 2006"
   location = "Erding, Bavaria"
   date_start = "2019-10-01"
   date_end = "2020-03-01"
-  description = """
   Description:"""
   * Participate in the construction of the testing laboratory. 
   * A lighting system based on Siemens PLC was built.
