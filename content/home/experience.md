@@ -24,8 +24,8 @@ date_format = "Jan 2006"
   location = "Erding, Bavaria"
   date_start = "October 2019"
   date_end = "March 2020"
-  description = ""
-  Description:
+  description = """
+  Description:"""
   * Participate in the construction of the testing laboratory. 
   * A lighting system based on Siemens PLC was built.
   * Responsible for the procurement of office supplies and laboratory supplies.
@@ -41,7 +41,7 @@ date_format = "Jan 2006"
   date_start = "March 2018"
   date_end = "February 2019"
   description = """Intern of Engineering Application Ultrasonic Department."""
-  Description:
+  Description:"""
   * Implemented a continuous test method by configuring the Jenkins project which allowed Integration test can be launch remotely and periodicity via Jenkins. 
   * Wrote batch files and C# scripts to implement an automatic flash function in winIDEA and automatic test in CANoe.
   * Test results can be obtained via email with test reports attached. Also responsible for the unit test by using TPT to test if the Simulink model is designed correctly according to requirements during the internship.
