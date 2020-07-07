@@ -34,7 +34,6 @@ date_format = "Jan 2006"
   * Participated in the optical test and environmental test of vehicle headlights.
   """
 
-
 [[experience]]
   title = "Engineering Intern"
   company = "Robert Bosch GmbH"
@@ -42,12 +41,13 @@ date_format = "Jan 2006"
   location = "Leonberg"
   date_start = "2018-03-01"
   date_end = "2019-02-28"
-  description = """Intern of Engineering Application Ultrasonic Department."""
+  description = """
   Responsibilities include:
   
   * Implemented a continuous test method by configuring the Jenkins project which allowed Integration test can be launch remotely and periodicity via Jenkins. 
   * Wrote batch files and C# scripts to implement an automatic flash function in winIDEA and automatic test in CANoe.
   * Responsible for the unit test by using TPT to test if the Simulink model is designed correctly according to requirements.
   """
+
 
 +++
