@@ -15,7 +15,7 @@ subtitle = ""
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 
 [[feature]]
-  icon = "fa-jenkins"
+  icon = "jenkins"
   icon_pack = "fab"
   name = "Jenkins"
   description = "80%"
@@ -27,25 +27,25 @@ subtitle = ""
   description = "50%"  
   
 [[feature]]
-  icon = "fa-laptop-code"
+  icon = "laptop-code"
   icon_pack = "fas"
   name = "Programming"
   description = "90%"
   
 [[feature]]
-  icon = "fa-car"
+  icon = "car"
   icon_pack = "fas"
   name = "Automotive Industry"
   description = "80%"
   
   [[feature]]
-  icon = "fa-edit"
+  icon = "edit"
   icon_pack = "fas"
   name = "Documentation"
   description = "80%"
     
   [[feature]]
-  icon = "fa-comments"
+  icon = "comments"
   icon_pack = "fas"
   name = "communication"
   description = "90%"
