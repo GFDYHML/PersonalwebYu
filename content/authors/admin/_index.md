@@ -70,12 +70,13 @@ user_groups:
 - Visitors
 ---
 
-寻找汽车行业或光学仪器行业的测试工程师或销售工程师的工作
 
 
-Looking for a job as a test engineer or sales engineer in the automotive industry or optical instruments industry. 
+Looking for a job as a test engineer or marketing engineer in the automotive industry and optical instruments industry. 
 
 
 Enhanced knowledge in Matlab/SIMULINK, C/C#, python and some automotive development software such as winIDEA, CANoe, vTESTStudio from previous working experience. Can plan, coordinate, implement system components, control units, cables, ultrasonic simulators, monitors and records for displays. 
 
 Experienced in HIL and MIL testing.Experienced in white box and black box testing. Familiar with relevant test software for ECU development and experience in using Jenkins for continuous integration testing.
+
+Proficient in implementing related ISO standards and regulations. Have both technical acumen and excellent communication skills.
