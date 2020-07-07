@@ -11,10 +11,11 @@ title = "patents"
 subtitle = ""
 
 date_format = "Jan 2006"
+
 [[item]]
   organization = "CN104390935A"
   organization_url = "https://patents.google.com/patent/CN104390935A/zh?oq=CN104390935A"
-  title = "太赫兹波段测试非线性极化系数和吸收系数的装置及方法"""Device and method for testing nonlinear polarization coefficient and absorption coefficient at terahertz band"
+  title = "太赫兹波段测试非线性极化系数和吸收系数的装置及方法 Device and method for testing nonlinear polarization coefficient and absorption coefficient at terahertz band"
   url = ""
   certificate_url = ""
   date_start = "2014-12-01"
