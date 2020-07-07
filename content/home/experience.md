@@ -21,16 +21,19 @@ date_format = "Jan 2006"
   title = "Test Engineer"
   company = "CATARC Europe Testing and Certification GmbH"
   company_url = ""
-  location = "Erding, Bavaria"
+  location = "Erding"
   date_start = "2019-10-01"
   date_end = "2020-03-01"
-  Description:"""
+  description = """
+  Responsibilities include:
+  
   * Participate in the construction of the testing laboratory. 
   * A lighting system based on Siemens PLC was built.
   * Responsible for the procurement of office supplies and laboratory supplies.
   * Designed the laboratory drainage pipe. 
-  * Participated in the optical test and environmental test of vehicle headlights
+  * Participated in the optical test and environmental test of vehicle headlights.
   """
+
 
 [[experience]]
   title = "Engineering Intern"
@@ -40,10 +43,11 @@ date_format = "Jan 2006"
   date_start = "2018-03-01"
   date_end = "2019-02-28"
   description = """Intern of Engineering Application Ultrasonic Department."""
-  Description:"""
+  Responsibilities include:
+  
   * Implemented a continuous test method by configuring the Jenkins project which allowed Integration test can be launch remotely and periodicity via Jenkins. 
   * Wrote batch files and C# scripts to implement an automatic flash function in winIDEA and automatic test in CANoe.
-  * Test results can be obtained via email with test reports attached. Also responsible for the unit test by using TPT to test if the Simulink model is designed correctly according to requirements during the internship.
+  * Responsible for the unit test by using TPT to test if the Simulink model is designed correctly according to requirements.
   """
 
 +++
