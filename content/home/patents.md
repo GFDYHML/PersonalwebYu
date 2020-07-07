@@ -3,7 +3,7 @@
 widget = "accomplishments"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 50  # Order that this section will appear.
+weight = 60  # Order that this section will appear.
 
 title = "Patents"
 subtitle = ""
@@ -22,7 +22,7 @@ date_format = "Jan 2006"
   organization = "CN103972780A"
   organization_url = "https://patents.google.com/patent/CN103972780A/zh?oq=CN103972780A"
   title = "一种通过可调光阑快速找到激光脉冲时域重合位置的方法"
-  url = ""
+  url = "https://patents.google.com/patent/CN103972780A/zh?oq=CN103972780A"
   certificate_url = ""
   date_start = "2014-05-01"
   date_end = ""
@@ -32,7 +32,7 @@ date_format = "Jan 2006"
   organization = "CN104457991B"
   organization_url = "https://patents.google.com/patent/CN104457991B/zh?oq=CN104457991B"
   title = "通过太赫兹波检测气体里德伯态精细谱线的装置"
-  url = ""
+  url = "https://patents.google.com/patent/CN104457991B/zh?oq=CN104457991B"
   certificate_url = ""
   date_start = "2014-12-01"
   date_end = ""
@@ -42,7 +42,7 @@ date_format = "Jan 2006"
   organization = "CN104390935A"
   organization_url = "https://patents.google.com/patent/CN104390935A/zh?oq=CN104390935A"
   title = "太赫兹波段测试非线性极化系数和吸收系数的装置及方法"
-  url = ""
+  url = "https://patents.google.com/patent/CN104390935A/zh?oq=CN104390935A"
   certificate_url = ""
   date_start = "2014-12-01"
   date_end = ""
