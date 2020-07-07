@@ -46,8 +46,7 @@ date_format = "Jan 2006"
   certificate_url = ""
   date_start = "2013-10-01"
   date_end = "2015-10-21"
-  description = "Project for the Shanghai municipal innovation project, Work as project leader.
-Description of this project: This system can monitoring pump beam and the sample surface micro structure function at the same time by using a simple structure which is easily adjusted."
+  description = "This system can monitoring pump beam and the sample surface micro structure function at the same time by using a simple structure which is easily adjusted."
 
 [[item]]
   organization = "CN104390935A"
