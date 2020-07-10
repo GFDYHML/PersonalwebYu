@@ -18,25 +18,25 @@ subtitle = ""
   icon = "jenkins"
   icon_pack = "fab"
   name = "Continuous Integration"
-  description = "80%"
+  description = ""
   
 [[feature]]
   icon = "chart-line"
   icon_pack = "fas"
   name = "Statistics"
-  description = "50%"  
+  description = ""  
   
 [[feature]]
   icon = "laptop-code"
   icon_pack = "fas"
   name = "Programming"
-  description = "90%"
+  description = ""
   
 [[feature]]
   icon = "car"
   icon_pack = "fas"
   name = "Automotive Industry"
-  description = "80%"
+  description = ""
   
   [[feature]]
   icon = "edit"
@@ -48,7 +48,7 @@ subtitle = ""
   icon = "comments"
   icon_pack = "fas"
   name = "communication"
-  description = "90%"
+  description = ""
   
 # Uncomment to use emoji icons.
 # [[feature]]

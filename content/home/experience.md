@@ -28,9 +28,7 @@ date_format = "Jan 2006"
   Responsibilities include:
   
   * Participated in the optical test and environmental test of vehicle headlights.
-  * A lighting system based on Siemens PLC was built.
-  * Responsible for the procurement of office supplies and laboratory supplies.
-  * Designed the laboratory drainage pipeline. 
+  * Participated in the configuration of the automotive headlamp test system based on Siemens PLC.
   * Participated in the construction of the testing laboratory. 
   * Standard: GB4599 GB5920 GB4660
   """

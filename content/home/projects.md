@@ -26,7 +26,7 @@ date_format = "Jan 2006"
   certificate_url = ""
   date_start = "2018-09-01"
   date_end = "2019-02-01"
-  description = "Implemented a continuous test method by configuring the Jenkins project. Integration test can be launch remotely and periodicity via Jenkins. Using several batch files and C# scripts to implement automatic flash in winIDEA and automatic test in CANoe. Test results can be obtained via email with test reports attached. "
+  description = "Implemented a continuous test method by configuring the Jenkins pipeline. Integration test can be launch remotely and periodicity via Jenkins. Using several batch files and C# scripts to implement automatic flash in winIDEA and automatic test in CANoe. Test results can be obtained via email with test reports attached. "
 
 [[item]]
   organization = "Hochschule Coburg"
