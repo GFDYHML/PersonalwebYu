@@ -48,7 +48,7 @@ subtitle = ""
   icon = "comments"
   icon_pack = "fas"
   name = "Language"
-  description = "English-Business fluent"""German-Conversant"
+  description = "English-Business fluent,German-Conversant"
 # Uncomment to use emoji icons.
 # [[feature]]
 #  icon = ":smile:"
