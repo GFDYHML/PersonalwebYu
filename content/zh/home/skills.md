@@ -17,38 +17,38 @@ subtitle = ""
 [[feature]]
   icon = "jenkins"
   icon_pack = "fab"
-  name = "Continuous Integration"
-  description = ""
+  name = "持续集成"
+  description = "基于Jenkins的持续集成与持续部署"
   
 [[feature]]
   icon = "chart-line"
   icon_pack = "fas"
-  name = "Statistics"
-  description = ""  
+  name = "数据科学"
+  description = "Pandas, NumPy, Matplotlib"  
   
 [[feature]]
   icon = "laptop-code"
   icon_pack = "fas"
-  name = "Programming"
-  description = ""
+  name = "编程语言"
+  description = "Python, C/C#, HTML, CSS"
   
 [[feature]]
   icon = "car"
   icon_pack = "fas"
-  name = "Automotive Industry"
-  description = ""
+  name = "汽车行业"
+  description = "博世自动泊车部门超声波传感器组实习经历"
   
   [[feature]]
-  icon = "edit"
+  icon = "tools"
   icon_pack = "fas"
-  name = "Documentation"
-  description = ""
+  name = "管理工具"
+  description = "Git, VS Code, Jupyter, Oracle VM"
     
   [[feature]]
   icon = "comments"
   icon_pack = "fas"
-  name = "communication"
-  description = ""
+  name = "自然语言"
+  description = "英文口语商务流利，英文学术写作，德语日常口语交流"
   
 # Uncomment to use emoji icons.
 # [[feature]]

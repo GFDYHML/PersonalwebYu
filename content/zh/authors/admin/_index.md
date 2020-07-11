@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Yu Zhong
+title: 钟宇
 
 # Username (this should match the folder name)
 authors:
@@ -10,30 +10,30 @@ authors:
 superuser: true
 
 # Role/position
-role: M.Eng.
+role: 工程硕士
 
 # Organizations/Affiliations
 organizations:
-- name: Hochschule Coburg
+- name: 科堡应用技术大学
   url: "https://www.hs-coburg.de/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: 对汽车行业与光学仪器行业感兴趣
 
 interests:
-- Software and Hardware Testing
-- Computational Linguistics
-- Automotive Industry
-- Optical Instruments Industry
+- 软件与硬件测试
+- 计算机编程语言
+- 汽车行业
+- 光学仪器行业
 
 
 education:
   courses:
-  - course: M.Eng. in Analytical Instruments, Measurement and Sensor Technology 
-    institution: Hochschule Coburg
+  - course: 分析仪器，测量和传感器技术 (硕士)
+    institution: 科堡应用技术大学
     year: 2019
-  - course: B.Sc in Optics/Optical Sciences
-    institution: University of Shanghai for Science and Technology
+  - course: 光电信息工程 (学士)
+    institution: 上海理工大学
     year: 2016
 
 # Social/Academic Networking
@@ -72,16 +72,16 @@ user_groups:
 
 
 
-Looking for a job as a test engineer or marketing engineer in the automotive industry and optical instruments industry. 
+寻找测试工程师或市场工程师的工作
 
-Familiar with the following programming languages: 
+熟悉以下编程语言和软件：
 
-Matlab/SIMULINK, C/C#, python and some automotive development software such as winIDEA, CANoe and vTESTStudio. 
+Matlab/SIMULINK，Labview, COMSOL, C/C＃，python 和汽车软件开发相关工具，例如winIDEA，CANoe和vTESTStudio。以及光学设计软件ZEMAX。
 
-Familiar with the following instruments:
+熟练使用以下仪器设备：
 
-control units, cables, ultrasonic simulators, integrating sphere,	distributed photometer and ithography.
-Extensive testing experience: HIL testing and MIL testing. White box and black box testing. Continuous integration and continuous deployment via Jenkins.
+示波器，超声模拟器，积分球，测角仪 和 分布式光度计。
 
+具有丰富的测试经验：硬件在环测试和软件在环测试。 软件方面具有白盒和黑盒测试经历，并且可以通过Jenkins进行测试的持续集成和持续部署。
 
-Proficient in implementing related ISO standards and regulations. Have both technical acumen and excellent communication skills.
+熟练执行相关的ISO标准和法规。具有技术敏锐度和出色的沟通能力。

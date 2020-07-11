@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 60  # Order that this section will appear.
 
-title = "Patents"
+title = "发明专利"
 subtitle = ""
 
 # Date format
@@ -26,7 +26,7 @@ date_format = "Jan 2006"
   certificate_url = ""
   date_start = "2014-05-01"
   date_end = ""
-  description = " 本发明涉及一种脉冲激光领域，特别涉及一种通过可调光阑快速找到激光脉冲时域重合位置的方法。The invention relates to a method for fast finding a laser pulse time domain coinciding position through an adjustable diaphragm. "
+  description = " 本发明涉及一种通过可调光阑快速找到激光脉冲时域重合位置的方法，设计可调内径的光阑：光阑内孔圆由左右两部分共同组成，两部分分别使用透光材料和挡光材料制成，光阑内孔圆大小可调，两部分面积之比可自行调节；保证两束光空间重合调整好的前提下,将设计的光阑放置于两个光路中，两路光聚焦后通过混频晶体，调节一个光路中的延时反射模块位置，当混频晶体后面光屏上观察到三个光斑时，延时反射模块所在的位置就是两路光光程相等的位置，此时两束激光脉冲时域重合。装置简单，操作容易，可快速找到激光脉冲时域重合位置，并适用于各种波长的短脉冲激光。 "
   
 [[item]]
   organization = "CN104457991B"
@@ -36,7 +36,7 @@ date_format = "Jan 2006"
   certificate_url = ""
   date_start = "2014-12-01"
   date_end = ""
-  description = "本发明是针对里德伯态原子的电子所处能级状态难以检测的问题，提出了一种通过太赫兹波检测气体里德伯态精细谱线的装置，可以检测各种高纯度的气体中电子所处的能级状态。The present invention relates to energy state detection device residing for a kind of electronics, in particular to the device of a kind of meticulous spectrum line of Rydberg state by THz wave detected gas molecule."
+  description = "本发明涉及一种通过太赫兹波检测气体里德伯态精细谱线的方法，从激光光源输出的超短脉冲激光经单色分束片，一部分进入太赫兹波发射系统，辐射出太赫兹波汇聚进入密闭腔，聚焦在密闭腔内部，另一部分超短脉冲激光经依次经过可调节光路进入密闭腔，在太赫兹波焦平面处聚焦；由真空泵将密闭腔抽成真空状态后，再通过气体管注入检测气体，检测气体被聚焦的超短脉冲激光电离形成片状等离子体，该片状表面与太赫兹波入射方向垂直；太赫兹波和片状等离子体在密闭腔内相互作用，太赫兹波谱探测系统检测相互作用产生的吸收峰，从太赫兹波谱中的吸收峰推断出检测气体里德伯态原子\分子中电子所处的能级状态。分辨率高，装置简单，容易操作，应用范围广。"
 
 [[item]]
   organization = "CN104390935A"
@@ -46,6 +46,6 @@ date_format = "Jan 2006"
   certificate_url = ""
   date_start = "2014-12-01"
   date_end = ""
-  description = "本发明涉及一种非线性晶体特性测试技术，特别涉及一种非线性晶体在太赫兹波 段测试其非线性极化系数和吸收系数的装置及方法。The invention relates to a device and a method for testing a nonlinear polarization coefficient and an absorption coefficient at a terahertz band. "
+  description = "本发明涉及一种太赫兹波段测试非线性极化系数和吸收系数的装置及方法，激光被分束片分成泵浦和探测两路光，探测光被可调节光程的反射镜组反射后，经用于调节入射激光光束强度的金属衰减片衰减，被反射镜反射至高阻硅片上；分束片出来的泵浦光被反射进入太赫兹产生装置产生太赫兹准直光，再经太赫兹偏振片被抛物面镜聚焦在焦点位置的样品架，另一抛物面镜将太赫兹转为平行光反射至高阻硅片上；两路光在高阻硅片处重合再被抛物面镜聚焦到探测晶体上，经发散后经过凸透镜聚焦再经1/4波片到沃拉斯通棱镜分别聚焦至两个光电探头处。只需将测试样品放在光路中的样品架或探测晶体位置，即可实现对样品在太赫兹波段的非线性极化系数和太赫兹波段的吸收系数的测试。"
   
 +++
