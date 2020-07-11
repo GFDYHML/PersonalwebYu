@@ -18,38 +18,37 @@ subtitle = ""
   icon = "jenkins"
   icon_pack = "fab"
   name = "Continuous Integration"
-  description = ""
+  description = "Continuous integration and continuous deployment based on Jenkins"
   
 [[feature]]
   icon = "chart-line"
   icon_pack = "fas"
-  name = "Statistics"
-  description = ""  
+  name = "Data Science"
+  description = "Pandas, NumPy, Matplotlib"  
   
 [[feature]]
   icon = "laptop-code"
   icon_pack = "fas"
   name = "Programming"
-  description = ""
+  description = "Python, C/C#, HTML, CSS"
   
 [[feature]]
   icon = "car"
   icon_pack = "fas"
   name = "Automotive Industry"
-  description = ""
+  description = "Parking-pilot ECU Testing Experience at Bosch"
   
   [[feature]]
-  icon = "edit"
+  icon = "tools"
   icon_pack = "fas"
   name = "Documentation"
-  description = ""
+  description = "Git, VS Code, Jupyter, Oracle VM"
     
   [[feature]]
   icon = "comments"
   icon_pack = "fas"
-  name = "communication"
-  description = ""
-  
+  name = "Language"
+  description = "English-Business fluent"""German-Conversant"
 # Uncomment to use emoji icons.
 # [[feature]]
 #  icon = ":smile:"

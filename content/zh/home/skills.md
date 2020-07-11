@@ -36,7 +36,7 @@ subtitle = ""
   icon = "car"
   icon_pack = "fas"
   name = "汽车行业"
-  description = "博世自动泊车部门超声波传感器组实习经历"
+  description = "博世自动泊车部门超声波传感器组软件测试经历"
   
   [[feature]]
   icon = "tools"
@@ -48,7 +48,7 @@ subtitle = ""
   icon = "comments"
   icon_pack = "fas"
   name = "自然语言"
-  description = "英文口语商务流利，英文学术写作，德语日常口语交流"
+  description = "英-商务流利，德语-日常交流"
   
 # Uncomment to use emoji icons.
 # [[feature]]
