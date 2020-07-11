@@ -26,7 +26,7 @@ date_format = "Jan 2006"
   certificate_url = ""
   date_start = "2018-09-01"
   date_end = "2019-02-01"
-  description = "Implemented a continuous test method by configuring the Jenkins pipeline."""Using several batch files and C# scripts to implement automatic flash in winIDEA and automatic test in CANoe. The integration test can be launched remotely and periodicity via Jenkins. Using multiple scripts to achieve separately: automatically synchronize the latest parking-pilot software which based on ultrasonic sensors from the server, flashing softeware to ECU via winIDEA, generating the corresponding test cases in CANoe and start the test automatically. Once the test is completed, Jenkins will automatically send an email with the test report attached to the developer."
+  description = "Implemented a continuous test method by configuring the Jenkins pipeline.Using several batch files and C# scripts to implement automatic flash in winIDEA and automatic test in CANoe. The integration test can be launched remotely and periodicity via Jenkins. Using multiple scripts to achieve separately: automatically synchronize the latest parking-pilot software which based on ultrasonic sensors from the server, flashing softeware to ECU via winIDEA, generating the corresponding test cases in CANoe and start the test automatically. Once the test is completed, Jenkins will automatically send an email with the test report attached to the developer."
 
 [[item]]
   organization = "Hochschule Coburg"
@@ -36,7 +36,7 @@ date_format = "Jan 2006"
   certificate_url = ""
   date_start = "2017-10-01"
   date_end = "2018-02-01"
-  description = "Build a platform to compare several 3D reconstruction methods: structured-Light projection, shape-from-Silhouette, multiview-stereo and laser-line scanning. """ And implemented the three-dimensional reconstruction method based on dual cameras in MATLAB: Using the checkerboard with specific dimensions to calibrate the camera and the three-dimensional images and point cloud map of other objects can be reconstruct."
+  description = "Build a platform to compare several 3D reconstruction methods: structured-Light projection, shape-from-Silhouette, multiview-stereo and laser-line scanning. And implemented the three-dimensional reconstruction method based on dual cameras in MATLAB: Using the checkerboard with specific dimensions to calibrate the camera and the three-dimensional images and point cloud map of other objects can be reconstruct."
   
 [[item]]
   organization = "University of Shanghai for Science and Technology"
@@ -46,6 +46,6 @@ date_format = "Jan 2006"
   certificate_url = ""
   date_start = "2013-10-01"
   date_end = "2015-10-21"
-  description = "The system adopts a simple structure which is easy to adjust. """It is mainly composed of a laser light source, an isolator, a lens, a rotating base, a beam splitter, an attenuator, a CCD image sensor, a sample stage, a two-dimensional stepping motor, three reflectors and a light trash production. """ The laser light emitted by the laser light source passes through the isolator, lens, and beam splitter in the horizontal direction to focus on the sample stage. The attenuator and the CCD image sensor are arranged in sequence in the vertical direction of the laser. After passing through the first reflecting mirror, the second reflecting mirror, and the third reflecting mirror, the light is reflected back to the back of the sample. And the light trash can is a moving part which is used to block the optical path. """By moving the light trash can and adjusting the direction of the beam splitter, the pump spot and the microstructure of the reflective and transmissive sample surface can be monitored. The structure is simple and easy to operate. (Shanghai Innovation Project, Tutor: Yan Peng)"
+  description = "The system adopts a simple structure which is easy to adjust. It is mainly composed of a laser light source, an isolator, a lens, a rotating base, a beam splitter, an attenuator, a CCD image sensor, a sample stage, a two-dimensional stepping motor, three reflectors and a light trash production. The laser light emitted by the laser light source passes through the isolator, lens, and beam splitter in the horizontal direction to focus on the sample stage. The attenuator and the CCD image sensor are arranged in sequence in the vertical direction of the laser. After passing through the first reflecting mirror, the second reflecting mirror, and the third reflecting mirror, the light is reflected back to the back of the sample. And the light trash can is a moving part which is used to block the optical path. """By moving the light trash can and adjusting the direction of the beam splitter, the pump spot and the microstructure of the reflective and transmissive sample surface can be monitored. The structure is simple and easy to operate. (Shanghai Innovation Project, Tutor: Yan Peng)"
 
 +++
