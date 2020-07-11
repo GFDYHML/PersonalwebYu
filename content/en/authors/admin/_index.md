@@ -21,7 +21,7 @@ organizations:
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- Testing
+- Software and Hardware Testing
 - Computational Linguistics
 - Automotive Industry
 - Optical Instruments Industry
@@ -43,7 +43,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:syozhong@gmail.com".
+  link: 'mailto:syozhong@gmail.com'  # For a direct email link, use "mailto:syozhong@gmail.com".
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/yu-zhong-163775178/
@@ -75,9 +75,13 @@ user_groups:
 Looking for a job as a test engineer or marketing engineer in the automotive industry and optical instruments industry. 
 
 Familiar with the following programming languages: 
+
 Matlab/SIMULINK, C/C#, python and some automotive development software such as winIDEA, CANoe and vTESTStudio. 
+
 Familiar with the following instruments:
+
 control units, cables, ultrasonic simulators, integrating sphere,	distributed photometer and ithography.
 Extensive testing experience: HIL testing and MIL testing. White box and black box testing. Continuous integration and continuous deployment via Jenkins.
+
 
 Proficient in implementing related ISO standards and regulations. Have both technical acumen and excellent communication skills.

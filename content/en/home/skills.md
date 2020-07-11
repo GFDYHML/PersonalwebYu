@@ -42,7 +42,7 @@ subtitle = ""
   icon = "edit"
   icon_pack = "fas"
   name = "Documentation"
-  description = "80%"
+  description = ""
     
   [[feature]]
   icon = "comments"
