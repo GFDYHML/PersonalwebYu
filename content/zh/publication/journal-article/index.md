@@ -48,7 +48,7 @@ url_pdf: files/project-3D.pdf
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: '(https://unsplash.com/photos/jdD8gXaTZsc)'
+  caption: 'https://unsplash.com/photos/jdD8gXaTZsc'
   focal_point: ""
   preview_only: false
 

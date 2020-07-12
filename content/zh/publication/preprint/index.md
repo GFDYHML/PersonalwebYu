@@ -44,7 +44,7 @@ url_pdf: files/project-jenkins.pdf
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: '(https://unsplash.com/photos/s9CC2SKySJM)'
+  caption: 'https://unsplash.com/photos/s9CC2SKySJM'
   focal_point: ""
   preview_only: false
 
