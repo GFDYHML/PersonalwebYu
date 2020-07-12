@@ -20,10 +20,10 @@ offset = 0
 order = "desc"
 
 [content.filters]
-tag = "test-tag"
-category = "test-category"
-publication_type = "test-pubtype"
-author = "me"
+tag = ""
+category = ""
+publication_type = ""
+author = ""
 exclued_featured = false
 
 [design]
