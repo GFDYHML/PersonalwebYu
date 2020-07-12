@@ -33,9 +33,9 @@ tags:
 - 三维重建
 featured: false
 
-# links:
-# - name: ""
-#   url: ""
+links:
+- name: PPT
+  url: files/project-3D-PPT.pdf
 url_pdf: files/project-3D.pdf
 # url_code: ''
 # url_dataset: ''
@@ -48,7 +48,7 @@ url_pdf: files/project-3D.pdf
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'https://unsplash.com/photos/jdD8gXaTZsc'
+  caption: ''
   focal_point: ""
   preview_only: false
 
@@ -57,8 +57,8 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects: []
-
+projects:
+- internal-project
 # Slides (optional).
 #   Associate this publication with Markdown slides.
 #   Simply enter your slide deck's filename without extension.
