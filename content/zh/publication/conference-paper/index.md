@@ -46,7 +46,7 @@ url_pdf: files/project-optical.pdf
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'https://unsplash.com/photos/pLCdAaMFLTE'
+  caption: ''
   focal_point: ""
   preview_only: false
 
