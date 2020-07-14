@@ -41,14 +41,14 @@ subtitle = ""
   [[feature]]
   icon = "tools"
   icon_pack = "fas"
-  name = "Documentation"
-  description = "Git, VS Code, Jupyter, Oracle VM"
+  name = "Tools"
+  description = "Git, VS Code, Jupyter, Siemens PLC"
     
   [[feature]]
   icon = "comments"
   icon_pack = "fas"
   name = "Language"
-  description = "English-Business fluent,German-Conversant"
+  description = "Chinese-native,English-Business fluent,German-Conversant"
 # Uncomment to use emoji icons.
 # [[feature]]
 #  icon = ":smile:"

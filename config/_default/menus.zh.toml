@@ -24,6 +24,11 @@
   weight = 40
 
 [[main]]
+  name = "证书"
+  url = "#certificates"
+  weight = 50
+
+[[main]]
   name = "联系我"
   url = "#contact"
   weight = 60
