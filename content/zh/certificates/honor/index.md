@@ -2,8 +2,8 @@
 title: 荣誉证书
 summary: 包含国家励志奖学金证书，多次校优秀学生干部，多次校学习优秀奖等。
 tags:
-- Deep Learning
-date: "2016-04-27T00:00:00Z"
+- honor
+date: "2016-06-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
