@@ -20,11 +20,9 @@ links:
   link: https://www.linkedin.com/in/yu-zhong-163775178/
 - icon: graduation-cap
   icon_pack: fas
-  name: 学位证书
   link: files/Masterurkunde.pdf
-  - icon: award
+- icon: award
   icon_pack: fas
-  name: 毕业成绩
   link: files/masterprufungszeugnis.pdf
 url_code: ""
 url_pdf: ""
