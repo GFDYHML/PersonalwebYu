@@ -9,7 +9,7 @@ date: "2016-06-27T00:00:00Z"
 external_link: ""
 
 image:
-  caption: Photo by rawpixel on Unsplash
+  caption: Yu Zhong 2016
   focal_point: Smart
 
 links:
@@ -35,5 +35,5 @@ url_video: ""
 
 奖学金证书图片会尽快上传。
 
-![jpg](./Yu2016.jpg)
+# ![jpg](./Yu2016.jpg)
 
