@@ -17,13 +17,13 @@ links:
 - icon: linkedin
   icon_pack: fab
   name: 领英
-  link: https://www.linkedin.com/in/yu-zhong-163775178/
+  url: https://www.linkedin.com/in/yu-zhong-163775178/
 - icon: graduation-cap
   icon_pack: fas
-  link: files/Masterurkunde.pdf
+  url: files/Masterurkunde.pdf
 - icon: award
   icon_pack: fas
-  link: files/masterprufungszeugnis.pdf
+  url: files/masterprufungszeugnis.pdf
 url_code: ""
 url_pdf: ""
 url_slides: ""
