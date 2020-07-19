@@ -15,7 +15,7 @@ subtitle = "在这里我向您分享我的部分学习心得，包括算法笔�
   page_type = "talk"
   
   # Choose how much pages you would like to display (0 = all pages)
-  count = 5
+  count = 0
   
   # Choose how many pages you would like to offset by
   offset = 0

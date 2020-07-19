@@ -17,7 +17,7 @@ abstract: 简述算法中有序度与逆序度的概念，并阐述关于插入�
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
 date: "2020-07-20T13:00:00Z"
-date_end: "2020-07-20T15:00:00Z"
+# date_end: "2020-07-20T15:00:00Z"
 all_day: true
 
 # Schedule page publish date (NOT talk date).
@@ -60,6 +60,8 @@ projects: []
 # Enable math on this page?
 math: true
 ---
+
+
 ## 为什么算法中插入排序的移动次数等于逆序度？
 
 ### 概念：
