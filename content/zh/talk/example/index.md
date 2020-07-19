@@ -1,5 +1,5 @@
 ---
-title: 算法笔记
+title: 学习笔记
 # event: 
 # event_url: 
 
@@ -55,14 +55,11 @@ slides: ""
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-# projects:
-# - internal-project
+projects: []
 
 # Enable math on this page?
 math: true
 ---
-假设排序前的n个元素的序列有x个有序元素对（有序度x），那么每移动一次有序度+1。既然“逆序度=满有序度-有序度”，那么总移动次数就是逆序度。即n(n-1)/2-x ，它对于插入排序和冒泡排序都是一样的，且平均时间复杂度是O(n^2)
-
 ## 为什么算法中插入排序的移动次数等于逆序度？
 
 ### 概念：
@@ -96,6 +93,6 @@ $$\frac{ n \left (n - 1 \right )}{2}$$
 
 数组**3,4,5,6,2,1**是通过插入排序从数组**4,5,6,3,2,1**中获得的，因此增加了3个有序对：**3,4**，**3,5**和**3,6**。 在此期间，移动次数为3，即元素3移动了3次。
 
-现在回到问题所在，排序期间的每一步移动都将加一个有序度。 因此，插入排序的移动次数等于完全有序度减去有序度，即逆序度。
+现在回到问题所在，排序期间的每一步移动都将加一个有序度，即有序度+1。 因此，插入排序的移动次数等于完全有序度减去有序度，即逆序度。
 
-它也可以在冒泡排序上实现。 无论是插入排序还是冒泡排序，平均时间复杂度均为$$O\left (n ^ 2 \right )$$。
+它同样也可以在冒泡排序上实现。 无论是插入排序还是冒泡排序，平均时间复杂度均为$$O\left (n ^ 2 \right )$$。

@@ -8,7 +8,7 @@ active = true  # Activate this widget? true/false
 weight = 80  # Order that this section will appear.
 
 title = "学习笔记"
-subtitle = "在这里我向您分享我的学习心得，包括算法笔记，语言笔记，读书笔记等。"
+subtitle = "在这里我向您分享我的部分学习心得，包括算法笔记，语言笔记，读书笔记等。"
 
 [content]
   # Page type to display. E.g. post, talk, or publication.
