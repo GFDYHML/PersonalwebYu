@@ -1,5 +1,5 @@
 ---
-title: 学习笔记
+title: talks
 
 # View.
 #   1 = List
