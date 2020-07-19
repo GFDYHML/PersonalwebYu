@@ -1,5 +1,5 @@
 ---
-title: Recent & Upcoming Talks
+title: 学习笔记
 
 # View.
 #   1 = List
