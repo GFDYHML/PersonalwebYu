@@ -1,15 +1,15 @@
 ---
 title: 学习笔记
-# event: 
-# event_url: 
+event: 
+event_url: 
 
-# location: Source Themes HQ
-# address:
-#   street: 450 Serra Mall
-#   city: Stanford
-#   region: CA
-#   postcode: '94305'
-#   country: United States
+location: 
+address:
+  street: 
+  city: 
+  region: 
+  postcode: 
+  country: 
 
 summary: 简述算法中有序度与逆序度的概念，并阐述关于插入排序中移动次数与逆序度的关系。
 abstract: 简述算法中有序度与逆序度的概念，并阐述关于插入排序中移动次数与逆序度的关系。
