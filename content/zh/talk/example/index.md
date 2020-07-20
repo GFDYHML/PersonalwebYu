@@ -1,5 +1,5 @@
 ---
-title: 学习笔记
+title: 算法笔记-逆序度
 event: 
 event_url: 
 
