@@ -39,3 +39,8 @@
 name = "个人简历"
 url = "files/cv.pdf"
 weight = 70
+
+[[main]]
+name = "学习笔记"
+url = "#talks"
+weight = 80

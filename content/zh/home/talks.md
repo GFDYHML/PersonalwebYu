@@ -12,10 +12,10 @@ subtitle = "在这里我向您分享我的部分学习心得，包括算法笔�
 
 [content]
   # Page type to display. E.g. post, talk, or publication.
-  page_type = "talk"
+  page_type = "publication"
   
   # Choose how much pages you would like to display (0 = all pages)
-  count = 0
+  count = 5
   
   # Choose how many pages you would like to offset by
   offset = 0
