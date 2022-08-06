@@ -50,7 +50,7 @@ social:
   link: https://www.linkedin.com/in/yu-zhong-163775178/
 - icon: cv
   icon_pack: ai
-  link: files/cven.pdf
+  link: https://yuzhong.netlify.app/files/cv.pdf
 - icon: github
   icon_pack: fab
   link: https://github.com/GFDYHML
