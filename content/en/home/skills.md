@@ -15,35 +15,29 @@ subtitle = ""
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 
 
-[[feature]]
-  icon = "list-check"
-  icon_pack = "far"
-  name = "Project Management"
+  [[feature]]
+  icon = "chart-line"
+  icon_pack = "fas"
+  name = "Management"
   description = "Agile Project Management"  
 
-[[feature]]
+  [[feature]]
+  icon = "car"
+  icon_pack = "fas"
+  name = "Automotive Industry"
+  description = "Lens, Lidar, HUD, Parking-pilot ECU"
+
+  [[feature]]
   icon = "jenkins"
   icon_pack = "fab"
   name = "Continuous Integration"
   description = "Continuous integration and continuous deployment based on Jenkins"
   
-[[feature]]
-  icon = "chart-line"
-  icon_pack = "fas"
-  name = "Data Science"
-  description = "Pandas, NumPy, Matplotlib"  
-  
-[[feature]]
+  [[feature]]
   icon = "laptop-code"
   icon_pack = "fas"
   name = "Programming"
   description = "Python, C/C#, HTML, CSS"
-  
-[[feature]]
-  icon = "car"
-  icon_pack = "fas"
-  name = "Automotive Industry"
-  description = "Parking-pilot ECU Testing Experience at Bosch"
   
   [[feature]]
   icon = "tools"

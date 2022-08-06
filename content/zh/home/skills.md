@@ -14,29 +14,29 @@ subtitle = ""
 # 
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 
-[[feature]]
-  icon = "jenkins"
-  icon_pack = "fab"
-  name = "持续集成"
-  description = "基于Jenkins的持续集成与持续部署"
-  
-[[feature]]
+  [[feature]]
   icon = "chart-line"
   icon_pack = "fas"
-  name = "数据科学"
-  description = "Pandas, NumPy, Matplotlib"  
-  
-[[feature]]
-  icon = "laptop-code"
-  icon_pack = "fas"
-  name = "编程语言"
-  description = "Python, C/C#, HTML, CSS"
-  
-[[feature]]
+  name = "管理"
+  description = "敏捷项目管理"  
+
+  [[feature]]
   icon = "car"
   icon_pack = "fas"
-  name = "汽车行业"
-  description = "博世自动泊车部门超声波传感器组软件测试经历"
+  name = "Automotive Industry"
+  description = "车载镜头, 激光雷达, 抬头显示器, 自动泊车ECU"
+
+  [[feature]]
+  icon = "jenkins"
+  icon_pack = "fab"
+  name = "Continuous Integration"
+  description = "Continuous integration and continuous deployment based on Jenkins"
+  
+  [[feature]]
+  icon = "laptop-code"
+  icon_pack = "fas"
+  name = "Programming"
+  description = "Python, C/C#, HTML, CSS"
   
   [[feature]]
   icon = "tools"
