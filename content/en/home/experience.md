@@ -24,7 +24,7 @@ date_format = "Jan 2006"
   company_url = "http://www.sunnyoptical.com/en/default.html"
   location = "Forchheim, Germany"
   date_start = "2020-10-28"
-  date_end = "now"
+  date_end = ""
   description = """
   Responsibilities include:
   
