@@ -14,6 +14,13 @@ subtitle = ""
 # 
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 
+
+[[feature]]
+  icon = "bars-progress"
+  icon_pack = "fas"
+  name = "Project Management"
+  description = "Agile Project Management"  
+
 [[feature]]
   icon = "jenkins"
   icon_pack = "fab"
