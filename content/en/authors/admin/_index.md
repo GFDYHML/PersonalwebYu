@@ -21,10 +21,11 @@ organizations:
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- Software and Hardware Testing
-- Computational Linguistics
 - Automotive Industry
-- Optical Instruments Industry
+- Project Management
+- Software and Hardware Developing and Testing
+- Quality Management
+
 
 
 education:
@@ -72,16 +73,24 @@ user_groups:
 
 
 
-Looking for a job as a test engineer or marketing engineer in the automotive industry and optical instruments industry. 
+Over 3 years experience in the automotive industry.
+Seeking a Project or Product Manager position in the automotive-ralated industry.
 
+Strengths:
+-Structured working method
+-Ability to prioritize
+-Communication
+-Detail oriented
+During my time at Sunny, I have lead our team obtained POs for different projects. My detail oriented and structured working method has been praised by colleagues and clients alike.
+Proficient in implementing related ISO standards and regulations. Have both technical acumen and excellent communication skills.
+
+Besides, enhanced following skills in my previous experience:
 Familiar with the following programming languages: 
-
 Matlab/SIMULINK, C/C#, python and some automotive development software such as winIDEA, CANoe and vTESTStudio. 
 
 Familiar with the following instruments:
-
 control units, cables, ultrasonic simulators, integrating sphere,	distributed photometer and ithography.
+
 Extensive testing experience: HIL testing and MIL testing. White box and black box testing. Continuous integration and continuous deployment via Jenkins.
 
 
-Proficient in implementing related ISO standards and regulations. Have both technical acumen and excellent communication skills.
