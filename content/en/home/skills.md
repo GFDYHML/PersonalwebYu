@@ -16,8 +16,8 @@ subtitle = ""
 
 
 [[feature]]
-  icon = "bars-progress"
-  icon_pack = "fas"
+  icon = "list-check"
+  icon_pack = "far"
   name = "Project Management"
   description = "Agile Project Management"  
 
