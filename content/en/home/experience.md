@@ -17,6 +17,28 @@ date_format = "Jan 2006"
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
+
+[[experience]]
+  title = "Marketing Manager"
+  company = "Sunny Optics Europe GmbH (Forchheim)"
+  company_url = "http://www.sunnyoptical.com/en/default.html"
+  location = "Forchheim, Germany"
+  date_start = "2020-10-28"
+  date_end = ""
+  description = """
+  Responsibilities include:
+  
+  * Developing new projects, supporting existing projects and managing Voice Of Customers in all dimensions:
+  * Quality: Using core tools to solve existing problems and identify potential risks and prevent regeneration.(APQP FEMA 8D)
+  * Cost: Quotation negotiation.
+  * Delivery: Ensuring stable delivery of products by managing of suppliers and logistics service providers. (SupplyOn DDP)
+  * Service: Driving Sunny team to timely adapt to customer needs and maintaining customer relationships. (VOC)
+  * Technology: Presenting technical reports and hosting project meetings.
+  * Standard: ISO16232 VDA19 
+  """
+
+
+
 [[experience]]
   title = "Test Engineer"
   company = "CATARC Europe Testing and Certification GmbH"

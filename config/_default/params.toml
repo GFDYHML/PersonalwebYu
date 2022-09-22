@@ -88,12 +88,12 @@ show_related = {docs = true, page = false, post = true, project = true, publicat
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "test@example.org"
-phone = "(+49)0 1707852420"
+email = "syozhong@gmail.com"
+phone = "+49(0) 1707852420"
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "Drygalski-Allee", city = "Munich", region = "BY", postcode = "81477", country = "Germany", country_code = "DE"}
+address = {street = "Kapellenweg 8a", city = "Eggolsheim", region = "BY", postcode = "91330", country = "Germany", country_code = "DE"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
@@ -204,7 +204,7 @@ plugins_js  = []
   citation_style = "apa"
 
 # Configuration of project pages.
-[projects]
+[certificates]
   # Views for associated content.
   #   1: List
   #   2: Compact

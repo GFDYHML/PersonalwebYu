@@ -15,13 +15,18 @@
 
 [[main]]
   name = "项目经历"
-  url = "#projects"
+  url = "#publications"
   weight = 30
 
 [[main]]
   name = "发明专利"
   url = "#patents"
   weight = 40
+
+[[main]]
+  name = "证书"
+  url = "#certificates"
+  weight = 50
 
 [[main]]
   name = "联系我"
@@ -34,3 +39,8 @@
 name = "个人简历"
 url = "files/cv.pdf"
 weight = 70
+
+[[main]]
+name = "学习笔记"
+url = "#talks"
+weight = 80

@@ -3,9 +3,9 @@
 widget = "pages"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true # Activate this widget? true/false
-weight = 90  # Order that this section will appear.
+weight = 50  # Order that this section will appear.
 
-title="项目经历-test"
+title="项目经历"
 # Slide interval.
 # Use `false` to disable animation or enter a time in ms, e.g. `5000` (5s).
 #interval = false
@@ -20,10 +20,10 @@ offset = 0
 order = "desc"
 
 [content.filters]
-tag = "test-tag"
-category = "test-category"
-publication_type = "test-pubtype"
-author = "me"
+tag = ""
+category = ""
+publication_type = ""
+author = ""
 exclued_featured = false
 
 [design]
