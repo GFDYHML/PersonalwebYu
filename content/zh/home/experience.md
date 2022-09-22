@@ -29,9 +29,9 @@ date_format = "Jan 2006"
   Responsibilities include:
   
   * 开发新项目，支持现有项目及全维度的用户心声管理（QCDST）：
-  * 质量Quality：使用汽车行业质量管理工具来解决已生质量问题，定位并消除潜在问题 及防止问题再生。（APQP 8D）
+  * 质量Quality：使用汽车行业质量管理工具来解决已生质量问题，定位并消除潜在问题 及防止问题再生。（APQP FEMA 8D）
   * 价格Cost：报价协商。
-  * 交付Delivery: 供应商管理与物流管理，保证稳定交付。 (DDP)
+  * 交付Delivery: 供应商管理与物流管理，保证稳定交付。 (SupplyOn DDP)
   * 服务Service: 理解客户需求，驱动Sunny团队及时响应及维护客户关系。
   * 技术Technology: 拆解讲演技术报告，主持项目例会及了解分析行业技术能力。
 meetings.
@@ -58,7 +58,7 @@ meetings.
 [[experience]]
   title = "实习工程师"
   company = "罗伯特·博世有限公司"
-  company_url = ""
+  company_url = "https://www.bosch.de/unser-unternehmen/bosch-in-deutschland/leonberg/"
   location = "Leonberg, 德国"
   date_start = "2018-03-01"
   date_end = "2019-02-28"

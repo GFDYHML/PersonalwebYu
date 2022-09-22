@@ -29,14 +29,11 @@ date_format = "Jan 2006"
   Responsibilities include:
   
   * Developing new projects, supporting existing projects and managing Voice Of Customers in all dimensions:
-  * Quality: Using core tools to solve existing problems and identify potential risks and prevent regeneration.(APQP 8D)
+  * Quality: Using core tools to solve existing problems and identify potential risks and prevent regeneration.(APQP FEMA 8D)
   * Cost: Quotation negotiation.
-  * Delivery: Ensuring stable delivery of products by managing of 
-suppliers and logistics service providers. (DDP)
-  * Service: Driving Sunny team to timely adapt to customer needs and 
-maintaining customer relationships.
-  * Technology: Presenting technical reports and hosting project 
-meetings.
+  * Delivery: Ensuring stable delivery of products by managing of suppliers and logistics service providers. (SupplyOn DDP)
+  * Service: Driving Sunny team to timely adapt to customer needs and maintaining customer relationships. (VOC)
+  * Technology: Presenting technical reports and hosting project meetings.
   * Standard: ISO16232 VDA19 
   """
 

@@ -18,14 +18,12 @@ organizations:
   url: "https://www.hs-coburg.de/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Three years of professional experience in marketing and testing in the automotive industry. And will devote myself to this industry with curiosity and enthusiasm.
 
 interests:
 - Automotive Industry
-- Project Management
 - Software and Hardware Developing and Testing
-- Quality Management
-
+- Project Management
 
 
 education:

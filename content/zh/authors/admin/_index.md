@@ -18,14 +18,13 @@ organizations:
   url: "https://www.hs-coburg.de/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: 具有三年汽车行业市场经验，寻找行业内的项目管理/产品经理岗位。
+bio: 硕士学历，具有三年汽车行业市场及测试经验，将带着好奇心与热情继续投身汽车行业。
 
 
 interests:
 - 汽车相关行业
-- 项目管理/产品经理
 - 软件与硬件测试
-- 质量管理
+- 项目管理/产品经理
 
 
 
